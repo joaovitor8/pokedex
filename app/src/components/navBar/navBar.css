@@ -1,0 +1,21 @@
+.NavBar {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  border-bottom: 1px solid white;
+}
+.NavBar img {
+  height: 200px;
+  margin: 0 10px;
+}
+
+.NavBar input {
+  height: 40px;
+  width: 500px;
+  border-radius: 5px;
+  border: 2px solid blue;
+  padding-left: 10px;
+}

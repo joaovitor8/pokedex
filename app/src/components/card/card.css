@@ -1,0 +1,24 @@
+.Card {
+  height: 300px;
+  width: 200px;
+  margin: 10px;
+  background-color: gold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 3px;
+}
+
+.Card img {
+  height: 190px;
+}
+
+.Card div {
+  width: 100%;
+}
+
+.Card p {
+  font-weight: bold;
+  padding: 5px 0 5px 10px;
+}
